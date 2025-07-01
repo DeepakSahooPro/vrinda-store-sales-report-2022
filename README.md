@@ -91,7 +91,7 @@ Vrinda Store needed a clear picture of their 2022 performance to improve targeti
 | File Name                          | Description                        |
 | ---------------------------------- | ---------------------------------- |
 | `Vrinda_Store_Sales_2022.xlsx`     | Excel workbook with full dashboard |
-| `Screenshot 2025-07-01 113526.png` | Dashboard screenshot image         |
+| `vrinda_sales_dashboard_2022.png` | Dashboard screenshot image         |
 | `README.md`                        | Project overview                   |
 
 ---
