@@ -75,7 +75,7 @@ Vrinda Store needed a clear picture of their 2022 performance to improve targeti
 
 ## 📸 Screenshots
 
-![Dashboard Preview]([Screenshot%202025-07-01%20113526.png](https://github.com/DeepakSahooPro/vrinda-store-sales-report-2022/blob/main/vrinda_sales_dashboard_2022.png))
+![Dashboard Preview](vrinda_sales_dashboard_2022.png))
 
 ---
 
