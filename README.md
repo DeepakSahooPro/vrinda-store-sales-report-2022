@@ -1,5 +1,3 @@
-Perfect! Based on your Vrinda Store Excel dashboard project, here's a professionally written `README.md` (similar to your HR project format):
-
 ---
 
 # 📊 Vrinda Store Annual Sales Report 2022 – Excel Dashboard
